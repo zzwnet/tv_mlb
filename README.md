@@ -8,7 +8,10 @@
 * [CatVodTVOfficial](https://github.com/CatVodTVOfficial)/[TVBoxOSC](https://github.com/CatVodTVOfficial/TVBoxOSC)
 * [q215613905](https://github.com/q215613905)/[TVBoxOS](https://github.com/q215613905/TVBoxOS)   
 
+## Build
+[Github Actions](https://github.com/XiaoRanLiu3119/MBox-Build/actions)
 
+## 配置
 
 === Source Code - Editing the app default settings ===
 /src/main/java/com/github/tvbox/osc/base/App.java
